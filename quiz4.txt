@@ -1,0 +1,2313 @@
+QUESTION 300
+
+The length of an IPv6 address is:
+
+A.
+32 bits
+
+B.
+64 bits
+
+C.
+128 bits
+
+D.
+ 
+256 bits
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 301
+
+A network technician is troubleshooting a problem with a user’s client-to-site VPN connection. The user is unable to establish a connection to the server, but the error message that appears on screen does not contain useful information. Which of the following should the technician do NEXT to troubleshoot the issue?
+
+A.
+Reconfigure the user’s VPN connection in the router to fix profile corruption.
+
+B.
+Inform the user that provisioning sometimes fails and the connection needs to be attempted again.
+
+C.
+Review the logs in the VPN client to check for any informational messages.
+
+D.
+Verify the system has the latest OS patches installed.
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 302
+
+Management requires remote access to network devices when the ISP is down. Which of the following devices would provide the BEST solution?
+
+A.
+Router
+
+B.
+Firewall
+
+C.
+ 
+Bridge
+
+D.
+Modem
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 303
+
+A network technician installed a new host on the network. The host is not connecting to the company’s cloud servers. The technician attempts to ping a server using the IP address with no success. Checking the IP address using ipconfing displays:
+
+IP Address    10.10.23.231
+Subnet Mask    255.255.192.0
+Default Gateway    10.10.20.1
+DNS1        11.11.11.11
+DNS2        11.11.11.12
+
+
+Which of the following should the technician perform NEXT to determine where the issue is located?
+
+A.
+Modify the default gateway address and ping the server to test connectivity.
+
+B.
+Change the DNS servers to be on the same subnet as the host.
+
+C.
+Modify the router’s ACL to allow port 80 to exit the network.
+
+D.
+Perform a tracert command to locate where the packet is dropped.
+
+
+Answer: D 
+ 
+
+ 
+
+QUESTION 304
+
+A network technician is performing a firmware upgrade on a switch. The firmware needs to be downloaded to the device. Which of the following methods should the technician use to retrieve the updated firmware?
+
+A.
+RDP
+
+B.
+SSH
+
+C.
+TFTP
+
+D.
+Telnet
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 305
+
+A network technician is assisting a user who is experiencing connectivity problems with the VPN. The technician has confirmed the VPN is functioning and other users at the site cannot access the Internet. Which of the following commands would MOST likely be used to further troubleshoot?
+
+A.
+tracert
+
+B.
+netstat
+
+C.
+arp
+
+D.
+dig
+
+
+Answer: A
+ 
+
+ 
+
+ 
+
+QUESTION 306
+
+Which of the following MUST be installed on an employee’s computer if the remote access VPN implements an SSL VPN with PKI authentication?
+
+A.
+Shared secret
+
+B.
+HTTPS server
+
+C.
+Soft token
+
+D.
+Private certificate
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 307
+
+Which of the following default ports should be opened on a firewall to allow for SSH and Telnet? (Choose two.)
+
+A.
+21
+
+B.
+22
+
+C.
+23
+
+D.
+25
+
+E.
+123    
+ 
+F.
+443
+
+
+Answer: B,C 
+
+ 
+
+
+QUESTION 308
+
+Two computers are connected to a multilayer switch, and both can access the corporate file server. The computers cannot talk to one another. Which of the following is MOST likely the cause?
+
+A.
+Duplex/speed mismatch
+
+B.
+ACL misconfiguration
+
+C.
+Bad port
+
+D.
+Crosstalk
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 309
+
+A user calls the help desk for assistance with setting up a new SOHO router. The user has three employees who all have laptops that need to connect to the wireless network. The users need to have firewall rules allowing access to an internal server, but cannot be configured with static IP addresses. Which of the following BEST describes what the technician should implement?
+
+A.
+CNAME record in the users’ dynamic DNS accounts
+
+B.
+Additional lease time for the laptop computers
+ 
+C.
+IP helper relay system for configuration hops
+
+D.
+DHCP reservation for the laptops’ MACs
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 310
+
+A home user is unable to get to the Internet from a workstation that is connected to a wireless network. When reviewing the results of the ipconfig command, the user wants to verity the default gateway is correct. Which of the following devices should be the gateway?
+
+A.
+Cable modem
+
+B.
+SOHO router
+
+C.
+DNS server
+
+D.
+Layer 2 switch
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 311
+
+A technician is troubleshooting intermittent connectivity on a line-of-sight wireless bridge. Which of the following tools should the technician use to determine the cause of the packet loss?
+
+A.
+Spectrum analyzer
+
+B.
+ 
+OTDR
+
+C.
+Packet sniffer
+
+D.
+Multimeter
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 312
+
+Which of the following should be configured to allow for IP-to-name resolutions?
+
+A.
+CNAME
+
+B.
+A
+
+C.
+PTR
+
+D.
+NS
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 313
+
+When configuring a new switch in a packet-switched network, which of the following helps protect against network loops?
+
+A.
+Spanning tree
+
+B.
+Flood guard    
+ 
+C.
+BPDU guard
+
+D.
+DHCP snooping
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 314
+
+A company has just installed a new cloud VoIP solution; however, users occasionally report poor call quality or dead air being present. Which of the following describes the NEXT troubleshooting step the technician should take?
+
+A.
+The technician should check the internal diagnostics on all the phones to look for a common thread.
+
+B.
+The technician should reset all the phones and reprovision information from the provider
+
+C.
+The technician should use a packet tracer to see if the traffic is getting out of the network
+
+D.
+The technician should run ping tests on the Internet line to monitor for packet loss and latency
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 315
+
+A network technician needs to configure a device with an embedded OS so it can be connected to a wireless handheld scanner. Which of the following technologies should be configured on the OS to create the wireless connection?
+
+A.
+Partial mesh
+ 
+B.
+Ad hoc
+
+C.
+Ring
+
+D.
+Bus
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 316
+
+An NGFW alerts that a web server in the DMZ is sending suspicious traffic. A network administrator finds that port 25 is open, and the traffic is originating from this port. The only purpose of this server is to deliver website traffic. Which of the following should the network administrator recommend to the systems administrator?
+
+A.
+Disable Telnet service on the server.
+
+B.
+Disable DHCP service on the server.
+
+C.
+Disable the SMTP service on the server
+
+D.
+Disable FTP service on the server.
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 317
+
+Joe, a network technician, wants to locally back up several router and switch configurations. He wants to store them on a server that can be accessed easily for recovery without authentication. Which of the following servers should Joe use?
+ 
+A.
+Telnet
+
+B.
+LDAP
+
+C.
+TFTP
+
+D.
+Samba
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 318
+
+According to the troubleshooting methodology, which of the following steps will help a technician gather information about a network problem? (Choose two.).
+
+A.
+Test solutions.
+
+B.
+Duplicate the problem
+
+C.
+Establish a theory of probable cause
+
+D.
+Question users
+
+E.
+Implement preventive measures.
+
+F.
+Document findings
+
+
+Answer: B,D 
+ 
+QUESTION 319
+
+A user reports network resources can no longer be accessed. The PC reports a link but will only accept static IP addresses. The technician pings other devices on the subnet, but the PC displays the message Destination unreachable. Which of the following are MOST likely the causes of this issue? (Choose two.).
+
+A.
+Damaged cables
+
+B.
+Crosstalk
+
+C.
+Bent pins
+
+D.
+TX/RX reverse
+
+E.
+VLAN mismatch
+
+F.
+Duplex mismatch
+
+
+Answer: C,E 
+
+ 
+
+
+QUESTION 320
+
+While testing an ACL on the default gateway router to allow only web browsing, ports TCP 80 and TCP 443 were the only ports open. When tested, no websites were accessible via their URLs inside the network. Which of the following configurations should be added to the ACL?
+
+A.
+permit tcp any any eq 20
+
+B.
+permit udp any any eq 25
+
+C.
+permit udp any any eq 53
+
+D.
+ 
+permit udp any any eq 68
+
+E.
+permit tcp any any eq 110
+
+F.
+permit tcp any any eq 8080
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 321
+
+Users have been experiencing connection timeout issues when using a web-based program. The network technician determines the problem happened due to a TTL setting that was set too low on the firewall. Which of the following BEST enabled the network technician to reach this conclusion?
+
+A.
+Reviewing application logs
+
+B.
+Reviewing a baseline report
+
+C.
+Reviewing a vulnerability scan
+
+D.
+Reviewing SLA requirements
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 322
+
+A network technician is installing a new wireless network for a client. The client has experienced issues with other building tenants connecting to the wireless network and utilizing the bandwidth. The client wants to prevent this from happening by using certificate-based authentication. Which of the following technologies should the network administrator implement?
+ 
+A.
+WPA-PSK
+
+B.
+EAP-TLS
+
+C.
+AES-CCMP
+
+D.
+WEP-TKIP
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 323
+
+A network administrator is installing a campus network of two routers, 24 switches, 76 APs, and 492 VoIP phone sets. Which of the following additional devices should the administrator install to help manage this network?
+
+A.
+VoIP PBX
+
+B.
+Content filter
+
+C.
+RADIUS server
+
+D.
+Wireless controller
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 324
+
+A technician arrives at a new building to find cabling has been run and terminated, but only the wall ports have been labeled. Which of the following tools should be utilized to BEST facilitate
+ 
+labeling the patch panel?
+
+A.
+Tone generator
+
+B.
+Cable tester
+
+C.
+Multimeter
+
+D.
+Loopback adapter
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 325
+
+Which of the following policies prohibits a network administrator from using spare servers in the datacenter to mine bitcoins?
+
+A.
+NDA
+
+B.
+BYOD
+
+C.
+AUP
+
+D.
+MOU
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 326
+
+Which of the following technologies is used when multiple Ethernet adapters work to increase    
+ 
+speed and fault tolerance?
+
+A.
+Clustering
+
+B.
+Load balancing
+
+C.
+Redundant circuits
+
+D.
+NIC teaming
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 327
+
+A network technician has finished configuring a new DHCP for a network. To ensure proper functionality, which of the following ports should be allowed on the server’s local firewall? (Choose two.)
+
+A.
+20
+
+B.
+21
+
+C.
+53
+
+D.
+67
+
+E.
+68
+
+F.
+389
+
+
+Answer: D,E 
+ 
+
+ 
+
+QUESTION 328
+
+A network technician is reviewing switch ACLs to determine if they are causing communication issues with one PC. The PC’s IP address is 192.168.12.66. Which of the following is the network range found in the ACL that could have affected this PC?
+
+A.
+192.168.12.97 255.255.255.192
+
+B.
+192.168.12.97 255.255.255.224
+
+C.
+192.168.12.97 255.255.255.240
+
+D.
+192.168.12.97 255.255.255.248
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 329
+
+A new technician is connecting an access switch to a distribution switch uplink in a datacenter using fiber cables. Which of the following are transceivers the technician should use to perform this job? (Choose two.)
+
+A.
+RJ45
+
+B.
+DB-9
+
+C.
+LC
+
+D.
+SFP
+
+E.
+GBIC
+ 
+F.
+SC
+
+
+Answer: D,E 
+
+ 
+
+
+QUESTION 330
+
+Which of the following physical security devices is used to prevent unauthorized access into a datacenter?
+
+A.
+Motion detector
+
+B.
+Video camera
+
+C.
+Asset tracking
+
+D.
+Smart card reader
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 331
+
+A technician is installing two new servers that collect logs. After installing the servers, the technician reviews the logical output from various commands. Which of the following should be included in a logical network diagram?
+
+A.
+Rack location
+
+B.
+Room number
+
+C.
+ 
+Media type
+
+D.
+Hostname
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 332
+
+A few weeks after starting a new position, Joe, a junior network administrator, receives a call from an internal number asking for his username and password to update some records. Joe realizes this may be a type of attack on the network, since he has full access to network resources. Which of the following attacks is described?
+
+A.
+Logic bomb
+
+B.
+Social engineering
+
+C.
+Trojan horse
+
+D.
+Insider threat
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 333
+
+A technician is sent to troubleshoot a faulty network connection. The technician tests the cable, and data passes through successfully. No changes were made in the environment, however, when a network device is connected to the switch using the cable, the switchport will not light up. Which of the following should the technician attempt NEXT?
+
+A.
+Modify the speed and duplex
+ 
+B.
+Plug in to another port
+
+C.
+Replace the NIC
+
+D.
+Change the switch
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 334
+
+A technician has been assigned to capture packets on a specific switchport. Which of the following switch features MUST be used to accomplish this?
+
+A.
+Spanning tree
+
+B.
+Trunking
+
+C.
+Port aggregation
+
+D.
+Port mirroring
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 335
+
+Which of the following operate only within the UDP protocol?
+
+A.
+Frames
+
+B.    
+ 
+Datagrams
+
+C.
+Segments
+
+D.
+Packets
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 336
+
+An employee reports an error when visiting a website using SSL, and a message is displayed warning of an invalid certificate. Which of the following could be occurring?
+
+A.
+Phishing
+
+B.
+DDoS
+
+C.
+Evil twin
+
+D.
+MITM
+
+E.
+OCSP stapling
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 337
+
+A network technician is troubleshooting a connectivity issue and determines the cause is related to the VLAN assignment on one of the access switches in the network. After resolving the issue, the network technician decides to update the documentation to refer to the correct VLAN. Which of the following should the technician update?
+ 
+A.
+Physical diagram
+
+B.
+Logical diagram
+
+C.
+IDF documentation
+
+D.
+Change management documentation
+
+E.
+Incident response plan
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 338
+
+A university has a lecture hall containing 100 students. Currently, the lecture hall has two 802.11ac wireless access points, which can accommodate up to 50 devices each. Several students report they are unable to connect devices to the wireless network. Which of the following is MOST likely the issue?
+
+A.
+One of the wireless access points is on the wrong frequency
+
+B.
+The students are attempting to connect 802.11g devices
+
+C.
+The students are using more than one wireless device per seat.
+
+D.
+Distance limitations are preventing the students from connecting.
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 339
+ 
+A WAP has been dropping off the network sporadically and reconnecting shortly thereafter. The Cat 5 wire connecting the access point is a long run of 265ft (81m) and goes through the business area and the mechanical room. Which of the following should the technician do to fix the AP connectivity issue?
+
+A.
+Install a repeater to boost the signal to its destination
+
+B.
+Replace the UTP cable with plenum cable.
+
+C.
+Upgrade the cable from Cat 5 to Cat 5e.
+
+D.
+Set the AP to half duplex to compensate for signal loss.
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 340
+
+A technician wants to configure a SOHO network to use a specific public DNS server. Which of the following network components should the technician configure to point all clients on a network to a new DNS server?
+
+A.
+Router
+
+B.
+Switch
+
+C.
+Load balancer
+
+D.
+Proxy server
+
+
+Answer: A 
+ 
+QUESTION 341
+
+A company wishes to allow employees with company-owned mobile devices to connect automatically to the corporate wireless network upon entering the facility. Which of the following would BEST accomplish this objective?
+
+A.
+Open wireless
+
+B.
+Geofencing
+
+C.
+Pre-shared key
+
+D.
+MAC filtering
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 342
+
+A network engineer for a manufacturing company is implementing a wireless network that provides reliable coverage throughout the facility. There are several large, electric, motorized machines installed on the shop floor for automating the manufacturing process. These machines are known to be significant sources of RF interference. Which of the following frequencies should the wireless network use to MINIMIZE this interference?
+
+A.
+2.4 GHz
+
+B.
+56MHz
+
+C.
+5GHz
+
+D.
+900MHz
+
+
+Answer: C
+ 
+
+ 
+
+ 
+
+QUESTION 343
+
+A company has procured a new office building and started the process of assigning employees to work at that location. The company has also purchased equipment for the new location. There are 5033 laptops, 6000 monitors, and 857 printers. Which of the following steps is the technician most likely to complete FIRST?
+
+A.
+Create a rack diagram
+
+B.
+Create a network baseline
+
+C.
+Create an inventory database
+
+D.
+Create a port location diagram
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 344
+
+Which of the following is created on a 48-port switch with five active VLANs?
+
+A.
+48 networks, five segments
+
+B.
+48 collision domains, five broadcast domains
+
+C.
+240 private networks
+
+D.
+240 usable IP addresses
+ 
+Answer: B 
+
+ 
+
+
+QUESTION 345
+
+A corporate manager says wireless phones do not work properly inside the main building. After a troubleshooting process, the network administrator detects that the voice packets are arriving on the wireless phones with different delay times. Which of the following performance issues is the company facing?
+
+A.
+Jitter
+
+B.
+Latency
+
+C.
+Attenuation
+
+D.
+Frequency mismatch
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 346
+
+Which of the following technologies is used to attach multiple guest operating systems to a single physical network port?
+
+A.
+Virtual switch
+
+B.
+FCoE
+
+C.
+VPC
+
+D.
+ 
+vSAN
+
+E.
+Fibre Channel
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 347
+
+When speaking with a client, an employee realizes a proposed solution may contain a specific cryptographic technology that is prohibited for non-domestic use. Which of the following documents or regulations should be consulted for confirmation?
+
+A.
+Incident response policy
+
+B.
+International export controls
+
+C.
+Data loss prevention
+
+D.
+Remote access policies
+
+E.
+Licensing restrictions
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 348
+
+A network technician is installing a new network switch in the MDF. The technician is using fiber to connect the switch back to the core. Which of the following transceiver types should the technician use?
+
+A.
+ 
+MT-RJ
+
+B.
+BNC
+
+C.
+GBIC
+
+D.
+F-type
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 349
+
+A network technician notices a router that repeatedly reboots. When contacting technical support, the technician discovers this is a known problem in which an attacker can craft packets and send them to the router through an obsolete protocol port, causing the router to reboot. Which of the following did the network technician fail to do? (Choose two.)
+
+A.
+Generate new crypto keys.
+
+B.
+Keep patches updated.
+
+C.
+Disable unnecessary services.
+
+D.
+Shut down unused interfaces.
+
+E.
+Avoid using common passwords.
+
+F.
+Implement file hashing.
+
+
+Answer: B,C 
+ 
+QUESTION 350
+
+A technician has replaced a customer’s desktop with a known-good model from storage. However, the replacement desktop will not connect to network resources. The technician suspects the desktop has not been kept up to date with security patches. Which of the following is MOST likely in place?
+
+A.
+ACL
+
+B.
+NAC
+
+C.
+Traffic shaping
+
+D.
+SDN
+
+E.
+NTP
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 351
+
+A network technician wants to gain a better understanding of network trends to determine if they are over capacity. Which of the following processes should the technician use?
+
+A.
+Log review
+
+B.
+Port scanning
+
+C.
+Vulnerability scanning
+
+D.
+Traffic analysis
+
+
+Answer: D
+ 
+
+ 
+
+ 
+
+QUESTION 352
+
+A network technician is configuring network addresses and port numbers for a router ACL to block a peer-to-peer application. Which of the following is the HIGHEST layer of the OSI model at which this router ACL operates?
+
+A.
+Transport
+
+B.
+Network
+
+C.
+Session
+
+D.
+Application
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 353
+
+An attacker has flooded the hardware tables of a switch to forward traffic to the attacker’s IP address rather than the default router. The traffic received is copied in real time, and then forwarded to the default router transparently from the end-user perspective. Which of the following attacks are occurring in this scenario? (Choose two.)
+
+A.
+DNS poisoning
+
+B.
+ARP poisoning
+
+C.
+Man-in-the-middle
+
+D.
+ 
+Ransomware
+
+E.
+Evil twin
+
+F.
+Reflective
+
+
+Answer: B,C 
+
+ 
+
+
+QUESTION 354
+
+A remote user is required to upload weekly reports to a server at the main office. Both the remote user and the server are using a Windows-based OS. Which of the following represents the BEST method for the remote user to connect to the server?
+
+A.
+RDP
+
+B.
+Telnet
+
+C.
+SSH
+
+D.
+VNC
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 355
+
+At which of the following layers of the OSI model would TCP/UDP operate?
+
+A.
+Layer 3
+
+B.    
+ 
+Layer 4
+
+C.
+Layer 5
+
+D.
+Layer 6
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 356
+
+A technician is troubleshooting a server in the finance office that hosts an internal accounting program. The ticketing desk has received several calls from users reporting that access to the accounting program is degraded, and they are experiencing severe delays, sometimes timing out entirely. The problem has been isolated to the server. Which of the following tools should the technician use on the server to narrow down the issue?
+
+A.
+nslookup
+
+B.
+iptables
+
+C.
+pathping
+
+D.
+netstat
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 357
+
+A technician is reviewing network device logs in an attempt to trace an attack that occurred on the network. Which of the following protocols would affect whether or not the technician can properly trace the attack through the network using the logs?
+ 
+A.
+HTTP
+
+B.
+SMTP
+
+C.
+NTP
+
+D.
+RDP
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 358
+
+Which of the following is BEST for providing real-time equipment theft alerts to the security staff?
+
+A.
+Biometric locks
+
+B.
+Smart card reader
+
+C.
+Asset tracking tags
+
+D.
+Motion detection
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 359
+
+A development team has been testing a web server on a virtual server to create a web application. Once satisfied, the development team clones the entire virtual server into production. The development team needs to use HTTP, HTTPS, and SSH to connect to the new server. Which of the following should the network administrator do to help secure this new production VM? (Choose
+ 
+two.)
+
+A.
+Disable the HTTP port in the host firewall.
+
+B.
+Upgrade the firmware on the firewall.
+
+C.
+Generate new SSH host keys.
+
+D.
+Remove unnecessary testing accounts.
+
+E.
+Issue a new self-signed certificate.
+
+
+Answer: C,E 
+
+ 
+
+
+QUESTION 360
+
+A wireless client is having issues staying connected to the wireless network even though the client is less than 20ft (6m) from the access point. Which of the following is MOST likely the cause?
+
+A.
+Distance limitations
+
+B.
+Latency
+
+C.
+Security type mismatch
+
+D.
+Absorption
+
+
+Answer: D 
+ 
+QUESTION 361
+
+Which of the following is a network device that is responsible for separating collision domains?
+
+A.
+Switch
+
+B.
+Router
+
+C.
+Hub
+
+D.
+Modem
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 362
+
+Which of the following network topologies is primarily used to connect servers to large network disk arrays?
+
+A.
+SAN
+
+B.
+MAN
+
+C.
+CAN
+
+D.
+PAN
+
+E.
+LAN
+
+
+Answer: A 
+ 
+
+ 
+
+QUESTION 363
+
+After setting up in a temporary office, Joe tries to access the company’s wireless network. Following several attempts, Joe is able to get an IP, but cannot access network resources. Which of the following is the MOST likely cause of this error when trying to connect to the company’s wireless network?
+
+A.
+Incorrect passphrase
+
+B.
+Incorrect power levels
+
+C.
+Incorrect workstation certificate
+
+D.
+Incorrect encryption
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 364
+
+A network technician is assisting a user who is having problems accessing a particular website. Other users are reporting that the website is accessible outside of the office. The technician suspects the problem is with the company’s firewall. Which of the following should the technician use to troubleshoot?
+
+A.
+WiFi analyzer
+
+B.
+Bandwidth speed tester
+
+C.
+Dig
+
+D.
+Packet sniffer
+ 
+Answer: C 
+
+ 
+
+
+QUESTION 365
+
+Which of the following protocols are used to configure an email client to receive email? (Choose two.)
+
+A.
+IMAP
+
+B.
+SMTP
+
+C.
+POP
+
+D.
+SFTP
+
+E.
+TFTP
+
+
+Answer: A,C 
+
+ 
+
+
+QUESTION 366
+
+A network extension needs to be run to a location 500ft (152m) from the nearest switch. Which of the following solutions would work BEST? (Choose two.)
+
+A.
+Cat 6 with a repeater placed in the middle of the run
+
+B.
+Cat 7
+
+C.
+Crossover cable
+ 
+D.
+Fiber-optic cabling
+
+E.
+Cat 7 with a patch panel placed in the middle of the run
+
+
+Answer: A,D 
+
+ 
+
+
+QUESTION 367
+
+A network administrator wants to connect to a remote device via SSH. Which of the following layers of the OSI model is the protocol using?
+
+A.
+3
+
+B.
+4
+
+C.
+5
+
+D.
+6
+
+E.
+7
+
+
+Answer: E 
+
+ 
+
+
+QUESTION 368
+
+A technician has received a report that details the need for a patch and a complete list of the affected systems. Which of the following activities MOST likely generated the report?
+
+A.
+Port enumeration
+ 
+B.
+Baseline review
+
+C.
+Vulnerability scanning
+
+D.
+Packet analysis
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 369
+
+A small company has decided to use a single virtual appliance to filter spam as well as reverse proxy and filter traffic to its internal web server. Which of the following has the company MOST likely deployed?
+
+A.
+IPS
+
+B.
+Firewall
+
+C.
+SIEM
+
+D.
+UTM
+
+E.
+Content filter
+
+
+Answer: E 
+
+ 
+
+
+QUESTION 370
+
+Which of the following devices would allow a network administrator to block an application at Layer 7 on the network?
+ 
+A.
+Firewall
+
+B.
+NGFW
+
+C.
+Router
+
+D.
+Spam filter
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 371
+
+A client requests a new dynamic address and receives a response from two DHCP servers. Which of the following addressing information would the client use?
+
+A.
+The IP addressing information received last
+
+B.
+The IP addressing information from the highest server MAC address
+
+C.
+The IP addressing information from the highest server IP address
+
+D.
+The IP addressing information received first
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 372
+
+A technician is preparing to dispose of old network devices. Which of the following policies and best practices would outline procedures for removing sensitive information and configurations from surplus equipment?
+ 
+A.
+System life-cycle procedures
+
+B.
+Off-boarding procedures
+
+C.
+Safety procedures
+
+D.
+Appropriate use policy
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 373
+
+Ann, a network technician, is told to disable unused ports on a switch. Another technician tells her the policy is to move those ports into a non-routed VLAN and leave them enabled. Which of the following documents should Ann use to ensure she is employing the correct method?
+
+A.
+Inventory management
+
+B.
+Wiring and port location
+
+C.
+Configuration baseline
+
+D.
+Standard operating procedure
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 374
+
+A network technician does not have access to the GUI of a server and needs to adjust some network properties. Given the command:
+ 
+route add 0.0.0.0 mask 0.0.0.0 192.169.1.222 metric 1 Which of the following is the technician attempting to alter?
+A.
+The technician is clearing the route table.
+
+B.
+The technician is adding a static IP address.
+
+C.
+The technician is clearing the subnet mask setting.
+
+D.
+The technician is setting the default gateway.
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 375
+
+A company is experiencing exponential growth and has hired many new employees. New users are reporting they cannot log into their systems, even though they are on the same network. The technician can see physical connectivity to the network switch along with their MAC addresses. Which of the following should the technician check NEXT?
+
+A.
+VLAN routing
+
+B.
+Server-based firewall configuration issue
+
+C.
+Patch cable type
+
+D.
+DHCP scope availability
+
+
+Answer: D 
+ 
+QUESTION 376
+
+A network technician is installing and configuring a new router for the sales department. Once the task is complete, which of the following needs to be done to record the change the technician is making to the company network?
+
+A.
+Change management
+
+B.
+Network diagrams
+
+C.
+Inventory report
+
+D.
+Labeling report
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 377
+
+A network technician receives reports indicating some users are unable to gain access to any network resources. During troubleshooting, the technician discovers the workstations have an IP address of 169.254.x.x. Which of the following is the MOST likely cause?
+
+A.
+Expired IP address
+
+B.
+Exhausted dynamic scope
+
+C.
+Misconfigured VLSM
+
+D.
+Rogue DHCP server
+
+
+Answer: B 
+ 
+
+ 
+
+QUESTION 378
+
+A customer has submitted a request for a new wireless connection in the main office so visitors can reach the Internet to check their email. The customer is concerned about security and does not want visitors to be able to access the internal finance server. Which of the following BEST describes the correct configuration?
+
+A.
+The LAN and WLAN should be configured in the same zone with dynamic DENY ALL rules.
+
+B.
+The LAN and WLAN should be configured in the DMZ so traffic is denied automatically.
+
+C.
+The LAN and WLAN should be marked as trusted during work hours and untrusted during off hours.
+
+D.
+The LAN and WLAN should be configured in separate zones with a firewall in between.
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 379
+
+An employee, who is using a laptop connected to the wireless network, is able to connect to the Internet but not to internal company resources. A systems administrator reviews the following information from the laptop:
+
+IP: 192.168.1.100
+
+MASK: 255.255.255.0
+
+ROUTER: 192.168.1.1
+
+The administrator was expecting to see a network address within 10.100.0.0/23, which is consistent with the company’s wireless network. The network administrator verifies the company’s wireless network is configured and working properly. Which of the following is the MOST likely cause of this issue?
+ 
+A.
+Interference
+
+B.
+Security type mismatch
+
+C.
+Wrong SSID
+
+D.
+Channel overlap
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 380
+
+Which of the following technologies should be used in high-throughput networks to reduce network overhead?
+
+A.
+iSCSI
+
+B.
+QoS tags
+
+C.
+Port aggregation
+
+D.
+Jumbo frames
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 381
+
+A network topology requires a switch to be placed in an unsecured location. Which of the following techniques should be used to prevent unauthorized access? (Choose two.)
+ 
+A.
+Disabling unused ports
+
+B.
+Upgrading firmware
+
+C.
+Using secure protocols
+
+D.
+File hashing
+
+E.
+MAC filtering
+
+F.
+Configuring a honeypot
+
+
+Answer: A,E 
+
+ 
+
+
+QUESTION 382
+
+A network technician is assisting a user who has relocated to a newly constructed office space. The user has no network connectivity. A cable tester was used on the port and is reporting that the pairs are open. Which of the following should be used to remedy this problem?
+
+A.
+Loopback adapter
+
+B.
+Tone generator
+
+C.
+Multimeter
+
+D.
+Punchdown tool
+
+
+Answer: D 
+ 
+QUESTION 383
+
+A technician needs to add ten additional Ethernet ports to a small office network. A new basic function switch is added. Hosts connected to the new switch are unable to see any computers on the network other than those connected to the new switch. Which of the following should the technician perform to ensure the hosts on the new switch can communicate with the existing network?
+
+A.
+Replace the new switch with a hub to ensure Layer 1 connectivity on the new network segment.
+
+B.
+Move the straight-through Ethernet cable connecting the switches to the first port on both switches.
+
+C.
+Connect the switches with a cable that has a TIA/EIA 586A wired connector end and a TIA/EIA 586B wired end.
+
+D.
+Add a second cable connecting the switches for redundancy and disabling STP on both switches.
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 384
+
+Before upgrading the firmware on several routers, a technician must verify the firmware file received is the same one the vendor provided. Which of the following should the technician use?
+
+A.
+3DES encryption
+
+B.
+SSL certificate
+
+C.
+Digital signatures
+
+D.
+MD5 hash
+
+
+Answer: D    
+ 
+
+ 
+
+ 
+
+QUESTION 385
+
+Which of the following is the MOST secure type of remote administration?
+
+A.
+SSH over IPsec client-to-site VPN
+
+B.
+RDP over SSLv2 HTTPS terminal services gateway
+
+C.
+HTTP over WPA2-TKIP WiFi
+
+D.
+Telnet over PSTN
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 386
+
+A wireless access point that was working in a large warehouse last week is now offline. The technician observes there is no power to the device. The technician verifies PoE is working on the switchport, and then confirms the wireless access point is still not powering up. Which of the following is the MOST likely issue?
+
+A.
+Attenuation
+
+B.
+Incorrect pin-out
+
+C.
+Damaged cable
+
+D.
+Switch misconfiguration
+ 
+
+Answer:
+
+ 
+
+QUESTION 387
+
+A network engineer is trying to determine where to place a firewall based on the flow of traffic. Which of the following types of documentation would assist the engineer in doing this?
+
+A.
+Change management
+
+B.
+Rack diagram
+
+C.
+Network configuration
+
+D.
+Network diagram
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 388
+
+A user believes a work email account has been compromised. A technician discovers that an email seeming to be from the user’s bank shares the same origin IP address as the last login to the email account. Which of the following types of attack is described in this scenario?
+
+A.
+Spam
+
+B.
+Ransomware
+
+C.
+Man-in-the-middle
+
+D.
+Phishing
+ 
+
+ Answer:
+
+ 
+
+QUESTION 389
+
+A customer wants to set up a guest wireless network for visitors. The customer prefers to not have a password on the network. Which of the following should a technician set up to force guests to provide information before using the network?
+
+A.
+Single sign-on
+
+B.
+RADIUS
+
+C.
+TACACS+
+
+D.
+Captive portal
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 390
+
+A zero-day vulnerability is discovered that affects a specific network device. This vulnerability only affects services on port 21. This network device is restricted to use only secure protocols and services. Which of the following explains why this device is secure?
+
+A.
+Because secure protocols would reject malicious packets
+
+B.
+Because SCP is not a secure service
+
+C.
+Because FTP is not a secure service
+
+D.
+ 
+Because a secure firewall will protect the device
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 391
+
+Which of the following protocols is used by Active Directory for authentication?
+
+A.
+SSH
+
+B.
+SFTP
+
+C.
+LDAP
+
+D.
+TLS
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 392
+
+When deploying UTP cables in a networking environment, which of the following are acceptable standards? (Choose two.)
+
+A.
+10Base2
+
+B.
+10Base5
+
+C.
+10GBaseT
+
+D.
+1000BaseLX    
+ 
+E.
+1000BaseSX
+
+F.
+1000BaseT
+
+
+Answer: C,F 
+
+ 
+
+
+QUESTION 393
+
+Which of the following is the physical location where the customer-premise equipment comes together with the ISP or third-party telecommunications equipment?
+
+A.
+Server room
+
+B.
+Equipment closet
+
+C.
+Demarcation point
+
+D.
+Intermediate distribution frame
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 394
+
+A vulnerability that would allow an unauthenticated, remote attacker to originate a DoS attack was found in a DHCP client implementation of a switch. Which of the following would BEST resolve the issue?
+
+A.
+Verify the default passwords have been changed.
+
+B.
+ 
+Upgrade to the latest firmware
+
+C.
+Generate new SSH keys.
+
+D.
+Review and modify the firewall rules.
+
+
+Answer: B 
+
+ 
+
+
+QUESTION 395
+
+A human resources manager notifies the IT manager the night before an employee will be terminated so the employee’s access rights can be removed. Which of the following policies is being exercised?
+
+A.
+Privileged user agreement
+
+B.
+AUP
+
+C.
+Non-disclosure agreement
+
+D.
+Offboarding
+
+
+Answer: D 
+
+ 
+
+
+QUESTION 396
+
+Log files show the admin user has logged into a public-facing device on several occasions in the evening. None of the technicians admit to doing any after-hours work, and the password has been changed several times but failed to prevent the logins. Which of the following should be the NEXT step to attempt to harden the device?
+ 
+A.
+Disable unused ports.
+
+B.
+Reset the two-factor token.
+
+C.
+Disable virtual ports.
+
+D.
+Upgrade the firmware.
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 397
+
+A network technician is setting up the wireless network for a company’s new branch office. After doing a site survey, the technician discovers there is a lot of interference from 2.4GHz devices at the location on channel 11. Which of the following would be the BEST channel on which to set up the WAPs?
+
+A.
+Channel 6
+
+B.
+Channel 7
+
+C.
+Channel 9
+
+D.
+Channel 10
+
+
+Answer: A 
+
+ 
+
+
+QUESTION 398
+
+A network technician has deployed a new 802.11ac network and discovers some of the legacy
+ 
+POS equipment only supports WPA and 802.11a. Which of the following is the MOST secure method of connecting all devices while avoiding a performance impact to modern wireless devices?
+
+A.
+Configure the APs to use LEAP authentication to support WPA rather than WPA2 for full compatibility.
+
+B.
+Connect modern devices under the 5GHz band while dedicating the 2.4GHz band to legacy devices.
+
+C.
+Connect the legacy devices with a PSK while the modern devices should use the more secure EAP.
+
+D.
+Create two SSIDs, one to support CCMP-AES encryption and one with TKIP-RC4 encryption.
+
+
+Answer: C 
+
+ 
+
+
+QUESTION 399
+
+Which of the following BEST describes the characteristics of a differential backup solution?
+
+A.
+Backs up files with the creation or modified date as the current date.
+
+B.
+Backs up all files and sets the archive bit.
+
+C.
+Backs up files with a date earlier than today’s date with a clear archive bit.
+
+D.
+Backs up files with the archive bit set but does not clear the bit.
+
+
+Answer: A 
